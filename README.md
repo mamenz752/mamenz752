@@ -19,7 +19,7 @@
 
 ##### Backend(Learning)
 
-[![Language](https://skillicons.dev/icons?i=py,c,cpp)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=py,c,cpp,php,laravel,aws)](https://skillicons.dev)
 
 ### :bar_chart: Analysis
 
