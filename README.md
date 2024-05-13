@@ -1,19 +1,12 @@
-# :pushpin: _About Me_
+## :pushpin: _About Me_
 
-### My Activity
+### 🎽 My Activities
 
-#### 2024/05
+- _2024/05_ 【技育博2024 vol.2】にて ***Rhythmate*** が **GMOインターネットグループ賞** を受賞しました ✨
+- _2024/02_ 【技育CAMP2023 vol.15】にて習慣をゲーム感覚で楽しく身に付けられるアプリ ***Rhythmate*** を制作し **努力賞** を受賞しました :sparkles:
+  - 発表資料は[こちら](https://docs.google.com/presentation/d/1AsPwOuDKC4Xcs0MNu3KkjYYQfisLcy3HtlEHVYMdc5c/edit?usp=sharing)
 
-- 【技育博2024 vol.2】にて ***Rhythmate*** が **GMOインターネットグループ賞** を受賞しました ✨
-
-#### 2024/02
-
-- 【技育CAMP2023 vol.15】にて習慣をゲーム感覚で楽しく身に付けられるアプリ ***Rhythmate*** を制作し **努力賞** を受賞しました :sparkles:
-　　　- 発表資料は[こちら](https://docs.google.com/presentation/d/1AsPwOuDKC4Xcs0MNu3KkjYYQfisLcy3HtlEHVYMdc5c/edit?usp=sharing)
-
-# :rocket: _Skills_
-
-### Using Language
+### :rocket: Skills
 
 #### Frontend
 
@@ -21,9 +14,13 @@
 
 #### Backend(Learning)
 
-[![Language](https://skillicons.dev/icons?i=py,c,cpp,php,laravel,aws)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=py,c,cpp,php,laravel)](https://skillicons.dev)
 
-# :bar_chart: _Analysis_
+#### Others(Learning)
+
+[![Language](https://skillicons.dev/icons?i=docker,aws)](https://skillicons.dev)
+
+## :bar_chart: _Analysis_
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamenz752&theme=cobalt) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamenz752&show_icons=true&theme=cobalt) 
 
