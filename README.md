@@ -25,3 +25,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamenz752&theme=cobalt) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamenz752&show_icons=true&theme=cobalt) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mamenz752&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
