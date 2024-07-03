@@ -20,7 +20,7 @@
 
 [![Language](https://skillicons.dev/icons?i=docker,aws)](https://skillicons.dev)
 
-## :bar*chart: \_Analysis*
+## 📊 Analysis
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamenz752&theme=cobalt) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamenz752&show_icons=true&theme=cobalt)
 
