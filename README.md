@@ -10,7 +10,7 @@
 
 ![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nextjs,go,php,larabel,pys#skills)
 
-# :playgroundslide: **_Playground_**
+# 🛝 **_Playground_**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mamenz752&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![snake animation](https://raw.githubusercontent.com/mamenz752/mamenz752/output/github-contribution-grid-snake.svg)
