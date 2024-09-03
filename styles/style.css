@@ -14,5 +14,6 @@ img[src*="#commits"] {
 }
 
 img[src*="#skills"] {
-    text-align: center;
+    display: block;
+    margin: 0 auto;
 }
