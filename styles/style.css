@@ -1,0 +1,18 @@
+img[src*="#details"] {
+    display: block;
+    margin: 0 auto;
+}
+
+img[src*="#stars"] {
+    display: block;
+    margin: 0 auto;
+}
+
+img[src*="#commits"] {
+    display: block;
+    margin: 0 auto;
+}
+
+img[src*="#skills"] {
+    text-align: center;
+}

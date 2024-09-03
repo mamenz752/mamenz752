@@ -1,16 +1,14 @@
+<link href="styles/style.css" rel="stylesheet"></link>
+
 # :pushpin: **ABOUT ME**
 
-<div style="text-align: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamenz752&theme=github">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mamenz752&theme=github">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamenz752&theme=github">
-</div>
+![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamenz752&theme=github#details)
+![Stars](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mamenz752&theme=github#stars)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamenz752&theme=github#commits)
 
 # :rocket: **SKILLS**
 
-<div style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,go,php,larabel,pys">
-</div>
+![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nextjs,go,php,larabel,pys#skills)
 
 # :playground_slide: **PLAYGROUND**
 
