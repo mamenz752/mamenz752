@@ -1,14 +1,14 @@
 # :pushpin: **_About Me_**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mamenz752&show_icons=true&theme=tokyonight" alt="GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamenz752&layout=donut&theme=tokyonight" alt="top langs">
+    <img src="https://github-readme-stats.vercel.app/api?username=mamenz752&show_icons=true&theme=highcontrast" alt="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamenz752&layout=donut&theme=highcontrast" alt="top langs">
 </p>
 
 # :rocket: **_Learning Skills_**
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,figma,ruby,rails,php,larabel,py&perline=2#skills" alt="skill icons">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,figma,ruby,rails,php,laravel,py&perline=5#skills" alt="skill icons">
 </p>
 
 # 🛝 **_Playground_**
