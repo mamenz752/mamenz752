@@ -1,8 +1,8 @@
 # :pushpin: **_About Me_**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mamenz752&show_icons=true&theme=highcontrast" alt="GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamenz752&layout=donut&theme=highcontrast" alt="top langs">
+    <img src="https://github-readme-stats.vercel.app/api?username=mamenz752&show_icons=true&theme=neon" alt="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamenz752&layout=donut-vertical&theme=neon" alt="top langs">
 </p>
 
 # :rocket: **_Learning Skills_**
