@@ -8,7 +8,7 @@
 # :rocket: **_Learning Skills_**
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,figma,go,java,php,laravel,py&perline=5#skills" alt="skill icons">
+    <img src="https://skillicons.dev/icons?i=figma,ts,vue,react,go,java,py,django,docker,aws&perline=5#skills" alt="skill icons">
 </p>
 
 # 🛝 **_Playground_**
