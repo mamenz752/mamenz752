@@ -1,7 +1,7 @@
 ### :rocket: I'm interested in ...
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,ts,vue,react,nextjs,laravel,go,java,spring,py,django,docker,aws&perline=6#skills" alt="skill icons">
+    <img src="https://skillicons.dev/icons?i=figma,ts,vue,react,nextjs,laravel,go,java,spring,py,django,docker,aws#skills" alt="skill icons">
 </p>
 
 <p align="center">
